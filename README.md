@@ -31,10 +31,12 @@ TODO URLs needed
 
   * https://github.com/clach04/pypebbleapi - Python client library for Timeline (specifically Rebble Timeline service)
 
-#### Desktop/commandline tools
+#### Desktop/command line tools
 
   * https://github.com/clach04/python-pebble-tools process locker
   * https://github.com/clach04/github_action_pebble_build - Pebble GitHub Actions for building
+  * https://github.com/clach04/pebble_patch_tts voice dictation patching to remove punctuation
+  * https://github.com/clach04/Pebble-App-Config-Page-Backup backup of (most) pebble config URLs
   
 
 ### SDK notes
