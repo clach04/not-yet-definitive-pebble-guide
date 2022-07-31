@@ -37,6 +37,10 @@ TODO URLs needed
   * https://github.com/clach04/github_action_pebble_build - Pebble GitHub Actions for building
   * https://github.com/clach04/pebble_patch_tts voice dictation patching to remove punctuation
   * https://github.com/clach04/Pebble-App-Config-Page-Backup backup of (most) pebble config URLs
+  * reverse enginering:
+      * radare2/r2 - https://github.com/radareorg/radare2/issues/20002 https://www.reddit.com/r/pebbledevelopers/comments/uc50kw/reverse_engineeringdecompiling_with_radare2r2/
+      * extracting assets
+          * PBW files are simply ZIP files, js is easily extractable and can be updated and injected back into the PBW without any other steps (i.e. no checksum, metadata/manifest updates, etc.
   
 
 ### SDK notes
