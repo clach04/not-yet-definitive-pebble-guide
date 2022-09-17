@@ -14,6 +14,10 @@ not yet definitive pebble smart watch guide
   * Pebble Development Setup https://github.com/andyburris/pebble-setup
   * Rebble Help SDK FAQ https://help.rebble.io/sdk/
 
+### CloudPebble
+
+  * Self hosted (with limitations) https://github.com/gfunkmonk/cloudpebble-composed WARNING not considered safe to expose publicly (from original author in Discord https://discord.com/channels/221364737269694464/407270816997441547/1014688058685259817)
+
 ### Frameworks
 
 TODO URLs needed
