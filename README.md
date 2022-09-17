@@ -58,3 +58,7 @@ TODO URLs needed
       * https://remysharp.com/2015/07/29/notes-on-porting-my-pebble-app-to-sdk-3
       * https://developer.rebble.io/developer.pebble.com/guides/migration/migration-guide-3/index.html#using-the-status-bar (statusbar missing battery after sdk2)
       * Also see https://github.com/rebootsramblings/custom-status-bar-for-pebble
+
+## Rebble Services Notes
+
+  * https://github.com/pebble-dev/rebble-boot/blob/master/boot/stage2.py#L182 - weather bootstrap URL
