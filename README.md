@@ -12,6 +12,7 @@ not yet definitive pebble smart watch guide
 
   * Docker and the Pebble emulator https://github.com/clach04/docker-pebble-dev/wiki
   * Pebble Development Setup https://github.com/andyburris/pebble-setup
+  * Rebble Help SDK FAQ https://help.rebble.io/sdk/
 
 ### Frameworks
 
