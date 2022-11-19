@@ -48,6 +48,10 @@ TODO URLs needed
       * extracting assets
           * PBW files are simply ZIP files, js is easily extractable and can be updated and injected back into the PBW without any other steps (i.e. no checksum, metadata/manifest updates, etc.
   
+### Hacking tools
+
+  * https://github.com/southwolf/pbw-tools
+  * https://github.com/clach04/rockgarden patch and hack watchfaces and apps - working fork of https://github.com/cpfair/rockgarden
 
 ### SDK notes
 
