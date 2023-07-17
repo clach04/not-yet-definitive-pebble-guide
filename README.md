@@ -2,11 +2,17 @@
 
 not yet definitive pebble smart watch guide
 
+TODO add TOC
 
 ## Resources
 
   * https://rebble.io/
   * https://github.com/pebble-dev/wiki/wiki
+
+### Communities
+
+  * Discord
+  * Reddit (users and dev)
 
 ## Building
 
