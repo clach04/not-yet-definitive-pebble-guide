@@ -57,7 +57,7 @@ TODO URLs needed
 #### Desktop/command line tools
 
   * https://github.com/clach04/python-pebble-tools process locker
-  * https://github.com/clach04/pebble_patch_tts voice dictation patching to remove punctuation
+  * https://github.com/clach04/pebble_patch_tts voice dictation patching to remove punctuation, relies on rockgarden
   * https://github.com/clach04/Pebble-App-Config-Page-Backup backup of (most) pebble config URLs
   * reverse enginering:
       * radare2/r2 - https://github.com/radareorg/radare2/issues/20002 https://www.reddit.com/r/pebbledevelopers/comments/uc50kw/reverse_engineeringdecompiling_with_radare2r2/
@@ -68,6 +68,7 @@ TODO URLs needed
 
   * https://github.com/southwolf/pbw-tools
   * https://github.com/clach04/rockgarden patch and hack watchfaces and apps - working fork of https://github.com/cpfair/rockgarden
+      * For example with use with https://github.com/clach04/pebble_patch_tts
 
 ### SDK notes
 
