@@ -16,11 +16,22 @@ TODO add TOC
 
 ## Building
 
+### Local
+
   * Docker and the Pebble emulator https://github.com/clach04/docker-pebble-dev/wiki
   * Pebble Development Setup https://github.com/andyburris/pebble-setup
   * Rebble Help SDK FAQ https://help.rebble.io/sdk/
 
+### Under CI / GitHub Actions
+
+So far only GitHub Actions available
+
+  * https://github.com/clach04/github_action_pebble_build - Pebble GitHub Actions for building
+      * See a demo at https://github.com/clach04/pebble_watchface_framework
+
 ### CloudPebble
+
+Requires the most work and not recommended:
 
   * Self hosted (with limitations) https://github.com/gfunkmonk/cloudpebble-composed WARNING not considered safe to expose publicly (from original author in Discord https://discord.com/channels/221364737269694464/407270816997441547/1014688058685259817)
 
@@ -46,7 +57,6 @@ TODO URLs needed
 #### Desktop/command line tools
 
   * https://github.com/clach04/python-pebble-tools process locker
-  * https://github.com/clach04/github_action_pebble_build - Pebble GitHub Actions for building
   * https://github.com/clach04/pebble_patch_tts voice dictation patching to remove punctuation
   * https://github.com/clach04/Pebble-App-Config-Page-Backup backup of (most) pebble config URLs
   * reverse enginering:
