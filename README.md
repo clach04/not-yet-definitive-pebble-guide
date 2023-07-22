@@ -78,6 +78,16 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
   * https://github.com/clach04/rockgarden patch and hack watchfaces and apps - working fork of https://github.com/cpfair/rockgarden
       * For example with use with https://github.com/clach04/pebble_patch_tts
 
+## Dev notes
+
+### Tips
+
+If Pebble emulator is hung
+
+1. Issue `pebble kill`
+2. Manually stop/kill any remaining pebble (emulator) processes
+3. Issue `pebble wipe`
+
 ### SDK notes
 
   * latest 4.x
