@@ -2,7 +2,27 @@
 
 not yet definitive pebble smart watch guide
 
-TODO add TOC
+- [not-yet-definitive-pebble-guide](#not-yet-definitive-pebble-guide)
+  * [Resources](#resources)
+    + [Communities](#communities)
+  * [Building](#building)
+    + [Local](#local)
+    + [Under CI / GitHub Actions](#under-ci---github-actions)
+    + [CloudPebble](#cloudpebble)
+    + [Frameworks](#frameworks)
+      - [On Pebble/Phone](#on-pebble-phone)
+      - [Services/APIs](#services-apis)
+      - [Desktop/command line tools](#desktop-command-line-tools)
+        * [Third Party Tools](#third-party-tools)
+    + [Hacking tools](#hacking-tools)
+  * [Dev notes](#dev-notes)
+    + [Tips](#tips)
+    + [SDK notes](#sdk-notes)
+      - [Migration and porting notes](#migration-and-porting-notes)
+  * [Rebble Services Notes](#rebble-services-notes)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Resources
 
