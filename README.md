@@ -102,6 +102,20 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
 
 ### Tips
 
+#### Pebble Debug Logs
+
+Once Developer mode is enabled in the Pebble App on the phone:
+
+    pebble logs --phone IP_ADDRESS
+
+Will display all logs, from C code and js code.
+
+This works under Windows, not just Unix-like platforms:
+
+    python2 -m pip install -e git+https://github.com/clach04/pebble-tool.git@windows_py27#egg=pebble-tool
+
+#### Hung Pebble emulator
+
 If Pebble emulator is hung
 
 1. Issue `pebble kill`
