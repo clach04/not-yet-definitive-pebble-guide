@@ -46,6 +46,7 @@ not yet definitive pebble smart watch guide
 
 So far only GitHub Actions available
 
+  * see https://github.com/kristofwillen/Pebble-NMBS for docker based build under GitHub actions
   * https://github.com/clach04/github_action_pebble_build - Pebble GitHub Actions for building
       * See a demo at https://github.com/clach04/pebble_watchface_framework
 
