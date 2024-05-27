@@ -60,6 +60,11 @@ Requires the most work and not recommended:
 
 TODO URLs needed
 
+#### Libraries
+
+  * https://github.com/LeFauve/pebble_memory_tools
+
+
 #### On Pebble/Phone
 
   * plain C with Pebble SDK
