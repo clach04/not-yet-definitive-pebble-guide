@@ -106,6 +106,12 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
   * https://github.com/southwolf/pbw-tools
   * https://github.com/clach04/rockgarden patch and hack watchfaces and apps - working fork of https://github.com/cpfair/rockgarden
       * For example with use with https://github.com/clach04/pebble_patch_tts
+  * [7z](https://www.7-zip.org/) and a [text](https://scintilla.org/SciTE.html) [editor](https://www.vim.org/)
+      * Most config/internet access can be modified/fixed/hacked via:
+         1. Extract the javascript from PBW using any zip extractor
+         2. edit javascript
+         3. rezip up the PBW
+      * A typical use case is to change the settings page or modify [weather lookup](https://github.com/clach04/pebble-forecaswatch2-fcsw2-fcw2/blob/6ae4f1f7cde3a32144d20821fb1a425b89122864/src/pkjs/weather/openweathermap.js#L26). 
 
 ## Dev notes
 
