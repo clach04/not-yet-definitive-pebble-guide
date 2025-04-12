@@ -145,6 +145,10 @@ If Pebble emulator is hung
   * SDK 2 - has incompatablities with SDK1
   * SDK 1 - do NOT use
 
+#### SDK Presentations
+
+  * https://m.youtube.com/watch?v=8tOhdUXcSkw&pp=0gcJCdgAo7VqN5tD covers memory
+
 #### Migration and porting notes
 
   * https://developer.rebble.io/developer.pebble.com/guides/migration/migration-guide-3
