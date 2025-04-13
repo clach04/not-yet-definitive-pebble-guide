@@ -107,6 +107,7 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
   * https://github.com/clach04/rockgarden patch and hack watchfaces and apps - working fork of https://github.com/cpfair/rockgarden
       * For example with use with https://github.com/clach04/pebble_patch_tts
   * https://github.com/cpfair/sand - Remix Pebble apps
+  * https://github.com/sethasaurus/pebble-pyrite
   * [7z](https://www.7-zip.org/) and a [text](https://scintilla.org/SciTE.html) [editor](https://www.vim.org/)
       * Most config/internet access can be modified/fixed/hacked via:
          1. Extract the javascript from PBW using any zip extractor
