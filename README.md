@@ -149,6 +149,7 @@ If Pebble emulator is hung
 #### SDK Presentations
 
   * https://m.youtube.com/watch?v=8tOhdUXcSkw&pp=0gcJCdgAo7VqN5tD covers memory
+      * https://www.slideshare.net/slideshow/pebble-dev-retreat2014size/40376128
 
 #### Migration and porting notes
 
