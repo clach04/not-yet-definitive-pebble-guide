@@ -103,6 +103,7 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
   
 ### Hacking tools
 
+  * https://github.com/pebble-dev/legacy-firmware-patcher/tree/rbl1-rc2
   * https://github.com/southwolf/pbw-tools
   * https://github.com/clach04/rockgarden patch and hack watchfaces and apps - working fork of https://github.com/cpfair/rockgarden
       * For example with use with https://github.com/clach04/pebble_patch_tts
