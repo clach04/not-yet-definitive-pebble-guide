@@ -33,6 +33,16 @@ not yet definitive pebble smart watch guide
 
   * Discord
   * Reddit (users and dev)
+  * https://forum.rebble.io/
+
+## Android Apps
+
+ 1. Original Pebble app, and Rebble modified/tweaked one
+ 2. [microPebble](https://github.com/matejdro/microPebble)
+ 3. [CoreDevices mobileapp](https://github.com/coredevices/mobileapp) https://play.google.com/store/apps/details?id=coredevices.coreapp
+ 4. [gadgetbridge](https://gadgetbridge.org/internals/specifics/pebble/) - NOTE there is supposed to be a fork that has network access for config
+
+Cobble currently not suitable
 
 ## Building
 
