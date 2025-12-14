@@ -16,6 +16,11 @@ Timeout: 3 minutes  # NOTE this is ignored when Quiet Time is on! https://www.re
 
 Banner Style (PebbleOS 4.9+): Classic (Flat Black)
 
+Screenshots showing differences:
+
+<img src="images/BannerStyle_Classic.png" alt="Banner Style Classic">
+<img src="images/BannerStyle_FlatBlack.png" alt="Banner Style Flat Black">
+
 Vibe Timming (PebbleOS 4.9.100+): Beginning (End)
 
 #### Vibrations

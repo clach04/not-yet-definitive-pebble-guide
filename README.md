@@ -29,6 +29,10 @@ not yet definitive pebble smart watch guide
   * https://rebble.io/
   * https://github.com/pebble-dev/wiki/wiki
 
+### Documentation
+
+[Notes on PebbleOS on device settings](./settings.md)
+
 ### Communities
 
   * Discord
@@ -110,7 +114,7 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
       * radare2/r2 - https://github.com/radareorg/radare2/issues/20002 https://www.reddit.com/r/pebbledevelopers/comments/uc50kw/reverse_engineeringdecompiling_with_radare2r2/
       * extracting assets
           * PBW files are simply ZIP files, js is easily extractable and can be updated and injected back into the PBW without any other steps (i.e. no checksum, metadata/manifest updates, etc.
-  
+
 ### Hacking tools
 
   * https://github.com/pebble-dev/legacy-firmware-patcher/tree/rbl1-rc2
@@ -124,7 +128,7 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
          1. Extract the javascript from PBW using any zip extractor
          2. edit javascript
          3. rezip up the PBW
-      * A typical use case is to change the settings page or modify [weather lookup](https://github.com/clach04/pebble-forecaswatch2-fcsw2-fcw2/blob/6ae4f1f7cde3a32144d20821fb1a425b89122864/src/pkjs/weather/openweathermap.js#L26). 
+      * A typical use case is to change the settings page or modify [weather lookup](https://github.com/clach04/pebble-forecaswatch2-fcsw2-fcw2/blob/6ae4f1f7cde3a32144d20821fb1a425b89122864/src/pkjs/weather/openweathermap.js#L26).
 
 ## Dev notes
 
