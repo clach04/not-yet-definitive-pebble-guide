@@ -18,8 +18,7 @@ Banner Style (PebbleOS 4.9+): Classic (Flat Black)
 
 Screenshots showing differences:
 
-<img src="images/BannerStyle_Classic.png" alt="Banner Style Classic">
-<img src="images/BannerStyle_FlatBlack.png" alt="Banner Style Flat Black">
+<img src="images/BannerStyle_Classic.png" alt="Banner Style Classic"> <img src="images/BannerStyle_FlatBlack.png" alt="Banner Style Flat Black">
 
 Vibe Timming (PebbleOS 4.9.100+): Beginning (End)
 
