@@ -105,18 +105,19 @@ TODO URLs needed
 
 #### Desktop/command line tools
 
-NOTe there are improvements and fixes for existing tools, you may have to find them. For example see unmerged PRs:
+Note that there are improvements and fixes for existing tools; you may have to find them. For example, see unmerged PRs:
 
 
-  * https://github.com/pebble-dev/pebble-tool/pulls - for example allow logging to be ran from Windows
+  * https://github.com/pebble-dev/pebble-tool/pulls - for example, allow logging to be ran from Windows
   * https://github.com/pebble/clay/pulls - working pebble clay config in the emulator on a modern desktop browser
+  * See https://github.com/pebble-dev/clay/branches in 2025-12 there was some new activity
 
 ##### Third Party Tools
 
   * https://github.com/clach04/python-pebble-tools process locker
   * https://github.com/clach04/pebble_patch_tts voice dictation patching to remove punctuation, relies on rockgarden
   * https://github.com/clach04/Pebble-App-Config-Page-Backup backup of (most) pebble config URLs
-  * reverse enginering:
+  * reverse engineering:
       * radare2/r2 - https://github.com/radareorg/radare2/issues/20002 https://www.reddit.com/r/pebbledevelopers/comments/uc50kw/reverse_engineeringdecompiling_with_radare2r2/
       * extracting assets
           * PBW files are simply ZIP files, js is easily extractable and can be updated and injected back into the PBW without any other steps (i.e. no checksum, metadata/manifest updates, etc.
@@ -126,7 +127,7 @@ NOTe there are improvements and fixes for existing tools, you may have to find t
   * https://github.com/pebble-dev/legacy-firmware-patcher/tree/rbl1-rc2
   * https://github.com/southwolf/pbw-tools
   * https://github.com/clach04/rockgarden patch and hack watchfaces and apps - working fork of https://github.com/cpfair/rockgarden
-      * For example with use with https://github.com/clach04/pebble_patch_tts
+      * For example, with use with https://github.com/clach04/pebble_patch_tts
   * https://github.com/cpfair/sand - Remix Pebble apps
   * https://github.com/sethasaurus/pebble-pyrite
   * [7z](https://www.7-zip.org/) and a [text](https://scintilla.org/SciTE.html) [editor](https://www.vim.org/)
