@@ -93,6 +93,15 @@ Battery+ and Battery- are decent options.
   * Information
   * Certification
   * Stand-By-Mode: Defaults to Off
+
+    Power save feature. If enabled,
+
+    If you enable stand-by mode and take the watch off and leave it on the table,
+    the watch will enable airplane mode after half an hour without movement and
+    re-enable Bluetooth if you pick it up again.
+
+    https://www.reddit.com/r/pebble/s/5d1VwYqIEW
+
   * Debugging (PebbleOS 4.9+) - Boolean
   * Shut Down
   * Factory Reset
