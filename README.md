@@ -45,6 +45,11 @@ not yet definitive pebble smart watch guide
   * Reddit (users and dev)
   * https://forum.rebble.io/
 
+### Archives
+
+  * https://github.com/clach04/PebbleArchive
+  * https://github.com/clach04/Pebble-App-Config-Page-Backup
+
 ## Android Apps
 
  1. Original Pebble app, and Rebble modified/tweaked one
