@@ -185,6 +185,12 @@ If Pebble emulator is hung
       * https://developer.rebble.io/developer.pebble.com/guides/migration/migration-guide-3/index.html#using-the-status-bar (statusbar missing battery after sdk2)
       * Also see https://github.com/rebootsramblings/custom-status-bar-for-pebble
 
+### Learning C with Pebble
+
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/
+      * https://github.com/clach04/PebbleArchive/blob/mine/learning-c-with-pebble%20final.pdf
+  * Solutions https://github.com/learning-c-with-pebble
+
 ## Rebble Services Notes
 
   * https://github.com/pebble-dev/rebble-boot/blob/master/boot/stage2.py#L182 - weather bootstrap URL
