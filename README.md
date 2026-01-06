@@ -191,6 +191,37 @@ If Pebble emulator is hung
   * https://pebble.gitbooks.io/learning-c-with-pebble/content/
       * https://github.com/clach04/PebbleArchive/blob/mine/learning-c-with-pebble%20final.pdf
   * Solutions https://github.com/learning-c-with-pebble
+<details>
+<summary>learning-c-with-pebble links</summary>
+
+https://pebble.gitbooks.io/learning-c-with-pebble/content/
+
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/index.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter01.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter02.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter03.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter04.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter05.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter06.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter07.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter09.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter10.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter11.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter12.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter13.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter14.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter15.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter16.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter17.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter18.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter19.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter20.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter21.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/appendixa.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/appendixb.html
+  * https://pebble.gitbooks.io/learning-c-with-pebble/content/appendixc.html
+</details>
 
 ## Rebble Services Notes
 
