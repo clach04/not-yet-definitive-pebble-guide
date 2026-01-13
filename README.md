@@ -58,9 +58,13 @@ not yet definitive pebble smart watch guide
  3. [CoreDevices mobileapp](https://github.com/coredevices/mobileapp) https://play.google.com/store/apps/details?id=coredevices.coreapp
  4. [gadgetbridge](https://gadgetbridge.org/internals/specifics/pebble/) - NOTE there is supposed to be a fork that has network access for config
 
-Cobble currently not suitable
+Cobble is currently not suitable
 
 ## Building
+
+### Watchface Generators
+
+  * https://github.com/HarrisonAllen/pebble-watchface-generator
 
 ### Local
 
@@ -70,7 +74,7 @@ Cobble currently not suitable
 
 ### Under CI / GitHub Actions
 
-So far only GitHub Actions available
+So far only GitHub Actions are available
 
   * see https://github.com/kristofwillen/Pebble-NMBS for docker based build under GitHub actions
   * https://github.com/clach04/github_action_pebble_build - Pebble GitHub Actions for building
@@ -78,9 +82,9 @@ So far only GitHub Actions available
 
 ### CloudPebble
 
-Requires the most work and not recommended:
+Requires the most work and not recommended (service down, but you can host locally). Instead, consider GitHub codespaces - see https://github.com/clach04/pebble_watchface_framework#instructions for hints
 
-  * Self hosted (with limitations) https://github.com/gfunkmonk/cloudpebble-composed WARNING not considered safe to expose publicly (from original author in Discord https://discord.com/channels/221364737269694464/407270816997441547/1014688058685259817)
+  * Self-hosted (with limitations) https://github.com/gfunkmonk/cloudpebble-composed WARNING not considered safe to expose publicly (from original author in Discord https://discord.com/channels/221364737269694464/407270816997441547/1014688058685259817)
 
 ### Frameworks
 
