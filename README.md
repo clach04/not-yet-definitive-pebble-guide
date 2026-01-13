@@ -190,7 +190,9 @@ If Pebble emulator is hung
       * https://developer.rebble.io/developer.pebble.com/guides/migration/migration-guide-3/index.html#using-the-status-bar (statusbar missing battery after sdk2)
       * Also see https://github.com/rebootsramblings/custom-status-bar-for-pebble
 
-### Learning C with Pebble
+### Books and Tutorials
+
+#### Learning C with Pebble
 
   * https://pebble.gitbooks.io/learning-c-with-pebble/content/
       * https://github.com/clach04/PebbleArchive/blob/mine/learning-c-with-pebble%20final.pdf
@@ -229,6 +231,10 @@ https://pebble.gitbooks.io/learning-c-with-pebble/content/
   * https://pebble.gitbooks.io/learning-c-with-pebble/content/appendixb.html
   * https://pebble.gitbooks.io/learning-c-with-pebble/content/appendixc.html
 </details>
+
+#### Tutorials
+
+  * NiVZ78 Pebble Tutorials https://nivz78.wordpress.com/2016/10/24/introduction/
 
 ## Rebble Services Notes
 
