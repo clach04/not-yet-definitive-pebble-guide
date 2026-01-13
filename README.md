@@ -191,6 +191,7 @@ If Pebble emulator is hung
   * https://pebble.gitbooks.io/learning-c-with-pebble/content/
       * https://github.com/clach04/PebbleArchive/blob/mine/learning-c-with-pebble%20final.pdf
       * https://github.com/clach04/learning-c-with-pebble - Markdown
+      * https://clach04.github.io/learning-c-with-pebble/SUMMARY
   * Solutions https://github.com/learning-c-with-pebble - one-project-per-answer
       * https://github.com/clach04/learning-c-with-pebble-exercises - all answers in single repo
 <details>
