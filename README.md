@@ -190,7 +190,9 @@ If Pebble emulator is hung
 
   * https://pebble.gitbooks.io/learning-c-with-pebble/content/
       * https://github.com/clach04/PebbleArchive/blob/mine/learning-c-with-pebble%20final.pdf
-  * Solutions https://github.com/learning-c-with-pebble
+      * https://github.com/clach04/learning-c-with-pebble - Markdown
+  * Solutions https://github.com/learning-c-with-pebble - one-project-per-answer
+      * https://github.com/clach04/learning-c-with-pebble-exercises - all answers in single repo
 <details>
 <summary>learning-c-with-pebble links</summary>
 
