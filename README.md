@@ -1,13 +1,15 @@
 # not-yet-definitive-pebble-guide
 
-not yet definitive pebble smart watch guide
+Not yet definitive Pebble smart watch guide
 
+- [not-yet-definitive-pebble-guide](#not-yet-definitive-pebble-guide)
   * [Resources](#resources)
     + [Documentation](#documentation)
     + [Communities](#communities)
     + [Archives](#archives)
   * [Android Apps](#android-apps)
   * [Building](#building)
+    + [Watchface Generators](#watchface-generators)
     + [Local](#local)
     + [Under CI / GitHub Actions](#under-ci---github-actions)
     + [CloudPebble](#cloudpebble)
@@ -25,7 +27,9 @@ not yet definitive pebble smart watch guide
     + [SDK notes](#sdk-notes)
       - [SDK Presentations](#sdk-presentations)
       - [Migration and porting notes](#migration-and-porting-notes)
-    + [Learning C with Pebble](#learning-c-with-pebble)
+    + [Books and Tutorials](#books-and-tutorials)
+      - [Learning C with Pebble](#learning-c-with-pebble)
+      - [Tutorials](#tutorials)
   * [Rebble Services Notes](#rebble-services-notes)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
