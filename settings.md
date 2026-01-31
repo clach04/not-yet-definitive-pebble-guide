@@ -71,6 +71,8 @@ Timezone: America/Los_Angeles
 
 Language: English
 
+Orientation: Default (right-handed) or Left-Handed. I troduced in FW v4. 9.121
+
 Backlight: On
 
 Motion Enabled: On
