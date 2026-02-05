@@ -5,6 +5,9 @@ Not yet definitive Pebble smart watch guide
 - [not-yet-definitive-pebble-guide](#not-yet-definitive-pebble-guide)
   * [Resources](#resources)
     + [Documentation](#documentation)
+    + [Hardware and Versions](#hardware-and-versions)
+      - [Pebble Technology Corporation (2013-2016)](#pebble-technology-corporation--2013-2016-)
+      - [Core Devices LLC (RePebble) (2025+)](#core-devices-llc--repebble---2025--)
     + [Communities](#communities)
     + [Archives](#archives)
   * [Android Apps](#android-apps)
@@ -33,7 +36,6 @@ Not yet definitive Pebble smart watch guide
   * [Rebble Services Notes](#rebble-services-notes)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Resources
 
