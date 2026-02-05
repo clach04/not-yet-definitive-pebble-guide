@@ -52,15 +52,20 @@ Hardware name (build platform).
 
 #### Pebble Technology Corporation (2013-2016)
 
-Pebble Classic / Pebble Steel (aplite)
-Pebble Time / Pebble Time Steel (basalt)
-Pebble Time Round (chalk)
-Pebble 2 (diorite)
+
+| Name                              | build   | hardware |
+|-----------------------------------|---------|----------|
+| Pebble Classic / Pebble Steel     | aplite  |          |
+| Pebble Time / Pebble Time Steel   | basalt  | smiles12 |
+| Pebble Time Round                 | chalk   |          |
+| Pebble 2                          | diorite |          |
 
 #### Core Devices LLC (RePebble) (2025+)
 
-Pebble Time 2 (emery)
-Pebble 2 Duo (flint)
+| Name                              | build   | hardware |
+|-----------------------------------|---------|----------|
+| Pebble Time 2                     | emery   | asterix  |
+| Pebble 2 Duo                      | flint   | asterix  |
 
 
 ### Communities
