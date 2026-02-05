@@ -2,6 +2,8 @@
 
 This is a combination of my personal settings and some notes on how they work.
 
+NOTE with the RePebble Pebble app watch settings can be controlled via the phone app (version 1.0.9.12).
+
 ## Pebble Settings
 
 ### PebbleOS Device Settings
