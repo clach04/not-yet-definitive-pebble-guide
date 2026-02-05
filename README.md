@@ -44,6 +44,23 @@ Not yet definitive Pebble smart watch guide
 
 [Notes on PebbleOS on device settings](./settings.md)
 
+### Hardware and Versions
+
+Hardware name (build platform).
+
+#### Pebble Technology Corporation (2013-2016)
+
+Pebble Classic (aplite)
+Pebble Time (basalt)
+Pebble Time Round (chalk)
+Pebble 2 (diorite)
+
+#### Core Devices LLC (RePebble) (2025+)
+
+Pebble Time 2 (emery)
+Pebble 2 Duo (flint)
+
+
 ### Communities
 
   * Discord
