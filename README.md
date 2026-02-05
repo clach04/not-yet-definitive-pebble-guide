@@ -50,8 +50,8 @@ Hardware name (build platform).
 
 #### Pebble Technology Corporation (2013-2016)
 
-Pebble Classic (aplite)
-Pebble Time (basalt)
+Pebble Classic / Pebble Steel (aplite)
+Pebble Time / Pebble Time Steel (basalt)
 Pebble Time Round (chalk)
 Pebble 2 (diorite)
 
