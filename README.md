@@ -269,6 +269,7 @@ https://pebble.gitbooks.io/learning-c-with-pebble/content/
 
   * https://github.com/pebble-dev/rebble-boot/blob/master/boot/stage2.py#L182 - weather bootstrap URL
   * Rebble App Store
+      * https://dev-portal.rebble.io Developer Portal for Rebble App Store
       * https://apps.rebble.io/en_US/watchapps
       * https://apps.rebble.io/en_US/watchfaces
       * Sample dev link for app, allows PBW download from web browser https://apps.rebble.io/en_US/application/55123f98e28a6598dd00008e?dev_settings=tru&section=watchapps
