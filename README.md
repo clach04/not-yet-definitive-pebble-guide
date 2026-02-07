@@ -44,7 +44,13 @@ Not yet definitive Pebble smart watch guide
 
 ### Documentation
 
+#### Using your Pebble
+
 [Notes on PebbleOS on device settings](./settings.md)
+
+#### Hard Reset
+
+Hold left button + top right + center right buttons (all together) for 30 seconds or until your watch displays a progress bar
 
 ### Hardware and Versions
 
