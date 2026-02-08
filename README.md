@@ -161,6 +161,7 @@ Note that there are improvements and fixes for existing tools; you may have to f
   * https://github.com/pebble-dev/pebble-tool/pulls - for example, allow logging to be ran from Windows
   * https://github.com/pebble/clay/pulls - working pebble clay config in the emulator on a modern desktop browser
   * See https://github.com/pebble-dev/clay/branches in 2025-12 there was some new activity along with releases https://www.npmjs.com/package/@rebble/clay
+  * also see https://github.com/andrewchilds/t1000-pebble-cgm/blob/main/src/pkjs/index.js which has a Clay example with manually defined message keys
 
 ##### Third Party Tools
 
