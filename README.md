@@ -54,6 +54,11 @@ Hold left button + top right + center right buttons (all together) for 30 second
 
 ### Hardware and Versions
 
+Also see
+
+  * https://developer.repebble.com/guides/tools-and-resources/hardware-information/ - NOTE likely to be different to Rebble
+  * https://developer.rebble.io/guides/tools-and-resources/hardware-information/
+
 Hardware name (build platform).
 
 #### Pebble Technology Corporation (2013-2016)
