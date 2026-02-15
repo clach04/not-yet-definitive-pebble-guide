@@ -172,6 +172,7 @@ Note that there are improvements and fixes for existing tools; you may have to f
       * radare2/r2 - https://github.com/radareorg/radare2/issues/20002 https://www.reddit.com/r/pebbledevelopers/comments/uc50kw/reverse_engineeringdecompiling_with_radare2r2/
       * extracting assets
           * PBW files are simply ZIP files, js is easily extractable and can be updated and injected back into the PBW without any other steps (i.e. no checksum, metadata/manifest updates, etc.
+          * https://github.com/gregoiresage/pebble-autoconfig tools can be helpful for a quick attempt to recreate config html files.
 
 ### Hacking tools
 
