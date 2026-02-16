@@ -1,5 +1,7 @@
 # Pebble with Continuous Glucose Monitors (CGM) and diabetes monitoring
 
+A collection of notes on CGM software and APIs.
+This document / guide does NOT recommend any particular software.
 
 ## Pebble Software in the Rebble Store
 
@@ -15,12 +17,27 @@ There a mix of faces/apps.
 
 For non-tech-savy users, Dexcom Share is probably the option to check out first.
 
-### Dexcom Share
+## Dexcom Share
+
+To use the Dexcom Share API, you need the credentials of the **publisher account** (not follower), and you need to have Dexcom Share enabled. To do this, you **must add a follower**, this can be yourself.
+
+Dexcom Share notes, see (non-Pebble) resources:
+
+  * https://www.dexcom.com/training-videos/setting-up-dexcom-share-and-follow - Setting up Dexcom Share and Follow
+  * https://provider.dexcom.com/education-research/cgm-education-use/videos/setting-dexcom-share-and-follow
 
 
-#### Dexcom Share - graphs
+#### Dexcom Share - Pebble Software Graphs
 
   * [T1000 CGM watchface](https://apps.rebble.io/en_US/application/6972fd68ae32660009f7c242?section=watchfaces) released 2026
       * https://github.com/andrewchilds/t1000-pebble-cgm
   * https://github.com/mollyjester/peb_dx_chart - not in Rebble store
     https://github.com/mollyjester/peb_dx_chart/releases/tag/v16
+
+#### Dexcom Share - for Developers
+
+  * https://github.com/gagebenne/pydexcom - A simple Python API to interact with Dexcom Share service
+  * https://github.com/Calebh101/dexcom - Dexcom for Dart allows you to use Dexcom Share to get your Dexcom CGM data, or anybody else's, to run your application.
+    Excellent documentation/overview of the Dexcom Share API and usage
+  * https://github.com/makors/dexrs - Rust library for interacting with the Dexcom Share API
+  * https://github.com/sedyn/rsdexcom - A Rust library for `esp32` providing an interface to the Dexcom Share service
