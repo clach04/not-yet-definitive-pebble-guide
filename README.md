@@ -91,6 +91,10 @@ Hardware name (build platform).
   * https://github.com/clach04/PebbleArchive
   * https://github.com/clach04/Pebble-App-Config-Page-Backup
 
+## Pebble Watchfaces / Apps
+
+Not really the aim of this guide, but see [Notes on Pebble with CGM for diabetes monitoring](./pebble_cgm.md)
+
 ## Android Apps
 
  1. Original Pebble app, and Rebble modified/tweaked one
