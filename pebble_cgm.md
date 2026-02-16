@@ -34,6 +34,11 @@ Dexcom Share notes, see (non-Pebble) resources:
   * https://github.com/mollyjester/peb_dx_chart - not in Rebble store
     https://github.com/mollyjester/peb_dx_chart/releases/tag/v16
 
+#### Dexcom Share - Pebble Software non-Graphs
+
+  * [Rat Scout watchface](https://apps.rebble.io/en_US/application/69924ebeb8c85e00096f4920?section=watchfaces) released 2026
+      * https://github.com/mollyjester/rat_scout
+
 #### Dexcom Share - for Developers
 
   * https://github.com/gagebenne/pydexcom - A simple Python API to interact with Dexcom Share service
