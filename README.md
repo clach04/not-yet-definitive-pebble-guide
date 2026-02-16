@@ -1,6 +1,7 @@
 # not-yet-definitive-pebble-guide
 
-Not yet definitive Pebble smart watch guide
+not yet definitive pebble smart watch guide
+https://github.com/clach04/not-yet-definitive-pebble-guide
 
 - [not-yet-definitive-pebble-guide](#not-yet-definitive-pebble-guide)
   * [Resources](#resources)
