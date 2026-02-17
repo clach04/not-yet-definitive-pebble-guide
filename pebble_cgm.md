@@ -61,3 +61,7 @@ Nightscout version of xDrip / xDrip+
 
   * [Nightscout SuperCGM watchface](https://apps.rebble.io/en_US/application/68c5e8d5474b97000932ae2c?section=watchfaces) released 2026
       * https://github.com/sgitaize/Nightscout-supercgm
+
+## Additional Resources
+
+  * FitBit Glances watch face with some information about CGM APIs https://github.com/Rytiggy/Glance/wiki/How-to-configure-Glance's-settings
