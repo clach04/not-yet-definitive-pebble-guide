@@ -50,6 +50,13 @@ Dexcom Share notes, see (non-Pebble) resources:
 
 ## Nightscout
 
+Nightscout version of xDrip / xDrip+
+
+#### Nightscout - Pebble Software Graph
+
+  * https://github.com/mortenfyhn/xDrip-Pebble-E NOTE no releases as of 2026-02-17 but apparently updated and working
+    See https://github.com/NightscoutFoundation/xDrip/discussions/4167 discussion thread
+
 #### Nightscout - Pebble Software non-Graphs
 
   * [Nightscout SuperCGM watchface](https://apps.rebble.io/en_US/application/68c5e8d5474b97000932ae2c?section=watchfaces) released 2026
