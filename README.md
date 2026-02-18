@@ -153,6 +153,7 @@ TODO URLs needed
   * UI mocking / preview
       * https://github.com/gregoiresage/pebble-image-viewer https://apps.rebble.io/en_US/application/53bdb1291c6da72083000044?query=Image&section=watchapps
       * Preview App by Tack Mobile https://apps.rebble.io/en_US/application/56240ecbbdf1bfb3cb00009e?query=Image&section=watchapps
+      * https://github.com/clach04/bitmap-gallery view list of static resources test/demo
 
 #### Services/APIs
 
