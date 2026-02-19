@@ -47,6 +47,12 @@ Dexcom Share notes, see (non-Pebble) resources:
   * https://github.com/makors/dexrs - Rust library for interacting with the Dexcom Share API
   * https://github.com/sedyn/rsdexcom - A Rust library for `esp32` providing an interface to the Dexcom Share service
 
+## LibreLinkUp API
+
+#### LibreLinkUp - Pebble Software non-Graphs
+
+  * Fuzzy Glucose https://apps.rebble.io/en_US/application/6977b6735cd4fc00092489cb
+      * https://github.com/Apfelholz/Fuzzy-Glucose
 
 ## Nightscout
 
