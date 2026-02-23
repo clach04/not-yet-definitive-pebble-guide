@@ -55,6 +55,10 @@ Dexcom Share notes, see (non-Pebble) resources:
   * Fuzzy Glucose https://apps.rebble.io/en_US/application/6977b6735cd4fc00092489cb
       * https://github.com/Apfelholz/Fuzzy-Glucose
 
+#### LibreLinkUp - for Developers
+
+  * https://gist.github.com/khskekec/6c13ba01b10d3018d816706a32ae8ab2
+
 ## Nightscout
 
 Nightscout version of xDrip / xDrip+
