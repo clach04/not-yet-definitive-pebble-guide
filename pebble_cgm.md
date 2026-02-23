@@ -33,6 +33,7 @@ Dexcom Share notes, see (non-Pebble) resources:
       * https://github.com/andrewchilds/t1000-pebble-cgm
   * https://github.com/mollyjester/peb_dx_chart - not in Rebble store
     https://github.com/mollyjester/peb_dx_chart/releases/tag/v16
+  * https://github.com/woernsn/urchin-cgm not in Rebble store, also supports Nightscout server. Very configurable.
 
 #### Dexcom Share - Pebble Software non-Graphs
 
@@ -62,6 +63,7 @@ Nightscout version of xDrip / xDrip+
 
   * https://github.com/mortenfyhn/xDrip-Pebble-E NOTE no releases as of 2026-02-17 but apparently updated and working
     See https://github.com/NightscoutFoundation/xDrip/discussions/4167 discussion thread
+  * https://github.com/woernsn/urchin-cgm not in Rebble store, also supports Dexcom Share. Very configurable.
 
 #### Nightscout - Pebble Software non-Graphs
 
