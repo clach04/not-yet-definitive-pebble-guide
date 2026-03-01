@@ -110,6 +110,8 @@ Cobble is currently not suitable
 
   * https://github.com/HarrisonAllen/pebble-watchface-generator
   * https://studio.pebbleface.com/
+      * https://github.com/Yorks0n/pebbleface-studio
+      * https://github.com/Yorks0n/pebble-face-builder
 
 ### Local
 
