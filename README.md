@@ -49,6 +49,18 @@ https://github.com/clach04/not-yet-definitive-pebble-guide
 
 [Notes on PebbleOS on device settings](./settings.md)
 
+#### Buttons
+
+Back on top-left
+
+Up - top-right - Defaults to Health, can be overridden with new firmware
+Select - center-right - Menu
+Down - bottom-right Timeline (Future)
+
+Press and hold back button exits app.
+
+When viewing watchface, by default, long-press on back toggles QuietTime, see [PebbleOS settings](./settings.md) for more details.
+
 #### Hard Reset
 
 Hold left button + top right + center right buttons (all together) for 30 seconds or until your watch displays a progress bar
