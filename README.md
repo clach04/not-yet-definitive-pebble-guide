@@ -226,6 +226,11 @@ This works under Windows, not just Unix-like platforms:
 
     python2 -m pip install -e git+https://github.com/clach04/pebble-tool.git@windows_py27#egg=pebble-tool
 
+
+    git checkout https://github.com/clach04/pebble-tool.git
+    git checkout rebbletool_win32
+    # Follow readme
+
 #### Hung Pebble emulator
 
 If Pebble emulator is hung
