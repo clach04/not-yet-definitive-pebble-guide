@@ -142,6 +142,9 @@ So far only GitHub Actions are available
 
 ### CloudPebble
 
+Check if https://github.com/coredevices/cloudpebble/ is suitable for you.
+See https://github.com/clach04/pebble_watchface_framework/ for import instructions.
+
 Requires the most work and not recommended (service down, but you can host locally). Instead, consider GitHub codespaces - see https://github.com/clach04/pebble_watchface_framework#instructions for hints
 
   * Self-hosted (with limitations) https://github.com/gfunkmonk/cloudpebble-composed WARNING not considered safe to expose publicly (from original author in Discord https://discord.com/channels/221364737269694464/407270816997441547/1014688058685259817)
