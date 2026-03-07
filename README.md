@@ -86,10 +86,11 @@ Hardware name (build platform).
 
 #### Core Devices LLC (RePebble) (2025+)
 
-| Name                              | build   | hardware |
-|-----------------------------------|---------|----------|
-| Pebble Time 2                     | emery   | asterix  |
-| Pebble 2 Duo                      | flint   | asterix  |
+| Name                              | build   | hardware   |
+|-----------------------------------|---------|------------|
+| Pebble Time 2                     | emery   | asterix    |
+| Pebble 2 Duo                      | flint   | asterix    |
+| Pebble Round 2                    | gabbro  | ?asterix ? |
 
 
 ### Communities
