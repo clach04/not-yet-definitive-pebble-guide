@@ -2,7 +2,8 @@
 
 This is a combination of my personal settings and some notes on how they work.
 
-NOTE with the RePebble Pebble app watch settings can be controlled via the phone app (version 1.0.9.12).
+NOTE with the Core Devices (RePebble) Pebble app, watch settings can be controlled via the phone app (version 1.0.9.12).
+NOTE some settings are ONLY available in the Phone app (Quick Launch Back+Up)
 
 ## Pebble Settings
 
@@ -47,6 +48,10 @@ Weekends: 0:00 - 6:00
 
 Interuptions: Quiet All Notifications
 
+Notifications: Show -- new with Core device FW.
+
+Motion Backlight: On NOTE requires Firmware v4.9.137 (possibly later)
+
 #### Timeline
 
 Quickview: On
@@ -55,11 +60,13 @@ Timing: 10 Min Before
 
 #### Quick Launch
 
-
-Clay Authenticator
-Notifications
-Bobby
-Quiet Time
+  * Hold Up
+  * Hold Down
+  * Hold Select
+  * Hold Back - defaults to Quiet Time toggle
+  * Hold Combo Back+Up - NOTE Phone App setting only, requires Firmware v4.9.135+
+  * Tap Up
+  * Tap Down
 
 #### Date and Time
 
