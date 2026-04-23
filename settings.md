@@ -80,13 +80,13 @@ Timezone: America/Los_Angeles
 
 Language: English
 
-Orientation: Default (right-handed) or Left-Handed. I troduced in FW v4. 9.121
+Orientation: Default (right-handed) or Left-Handed. Introduced in FW v4.9.121
 
 Backlight: On
 
 Motion Enabled: On
 
-Touch Enabled: Off, when on, single tap/touch will turn backlight on. Expected to be double tap in a future version
+Touch Enabled: Off. When on, a single tap/touch will turn the backlight on. Introduced in FW v4.9.163. Expected to be a double-tap in a future version. Requires hardware with a touchscreen, like the Pebble Time 2.
 
 Ambient Sensor: On
 
