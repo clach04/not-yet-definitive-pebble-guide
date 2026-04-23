@@ -86,6 +86,8 @@ Backlight: On
 
 Motion Enabled: On
 
+Touch Enabled: Off, when on, single tap/touch will turn backlight on. Expected to be double tap in a future version
+
 Ambient Sensor: On
 
 Intensity: High
