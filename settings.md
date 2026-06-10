@@ -65,6 +65,7 @@ Timing: 10 Min Before
   * Hold Select
   * Hold Back - defaults to Quiet Time toggle
   * Hold Combo Back+Up - NOTE Phone App setting only, requires Firmware v4.9.135+
+  * Hold Combo Down+Up - NOTE Phone App setting only, requires Firmware v4.10?
   * Tap Up
   * Tap Down
 
